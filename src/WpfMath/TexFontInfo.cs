@@ -1,7 +1,7 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
-using System.Windows.Media;
 using WpfMath.Exceptions;
+using WpfMath.Platforms;
 using WpfMath.Utils;
 
 namespace WpfMath

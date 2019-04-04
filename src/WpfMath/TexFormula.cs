@@ -1,9 +1,9 @@
-﻿using System.Collections.Generic;
+using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
-using System.Windows.Media;
 using WpfMath.Atoms;
 using WpfMath.Boxes;
+using WpfMath.Platforms;
 
 namespace WpfMath
 {

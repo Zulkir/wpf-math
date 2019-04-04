@@ -1,5 +1,6 @@
-﻿using System.Windows;
+using System.Windows;
 using System.Windows.Media;
+using WpfMath.Platforms;
 using WpfMath.Rendering;
 
 namespace WpfMath.Boxes

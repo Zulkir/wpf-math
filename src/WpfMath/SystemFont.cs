@@ -1,7 +1,6 @@
-﻿using System.Globalization;
-using System.Windows;
-using System.Windows.Media;
+using System.Globalization;
 using WpfMath.Exceptions;
+using WpfMath.Platforms;
 using WpfMath.Utils;
 
 namespace WpfMath

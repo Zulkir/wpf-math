@@ -5,6 +5,14 @@
         <DebugType>Full</DebugType>
     </PropertyGroup>
     <ItemGroup>
-        <ProjectReference Include="../WpfMath/WpfMath.csproj"/>
+      <Page Remove="Controls\FormulaControl.xaml" />
+    </ItemGroup>
+    <ItemGroup>
+      <None Include="Controls\FormulaControl.xaml">
+        <Generator>MSBuild:Compile</Generator>
+      </None>
+    </ItemGroup>
+    <ItemGroup>
+        <ProjectReference Include="../WpfMath/WpfMath.csproj" />
     </ItemGroup>
 </Project>

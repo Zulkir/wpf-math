@@ -1,5 +1,5 @@
-using System.Windows.Media;
 using WpfMath.Boxes;
+using WpfMath.Platforms;
 
 namespace WpfMath.Atoms
 {
